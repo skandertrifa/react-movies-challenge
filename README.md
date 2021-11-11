@@ -10,3 +10,4 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![react-challenge-movies](https://user-images.githubusercontent.com/47254439/141348381-04f0ad10-770b-4559-9544-e1290bfcda1d.png)
